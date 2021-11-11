@@ -61,6 +61,7 @@ h3 {
   justify-content: center;
 }
 .header__logo {
+  max-width 70%;
   margin: 3rem 0;
 }
 /**footer**/
